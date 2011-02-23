@@ -1,0 +1,12 @@
+= extra_js
+
+Adds extra javascript to a remine install globally. Some related links:
+
+http://www.redmine.org/boards/2/topics/3199
+
+There is another plugin for selectively adding js:
+
+https://github.com/shoorick/redmine_custom_js_and_css
+
+
+
